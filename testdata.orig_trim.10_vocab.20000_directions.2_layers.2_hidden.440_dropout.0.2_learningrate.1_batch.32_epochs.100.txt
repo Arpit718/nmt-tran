@@ -1,0 +1,145 @@
+Starting Training 
+Read 135842 sentence pairs 
+Read 10853 sentence pairs 
+Train pairs: 10853Test pairs: 0Counted Words -> Trimmed Vocabulary Sizes (w/ EOS and SOS tags):en, 4487 -> 4490fre, 2923 -> 2926 
+
+Random Train Pair: ('il a probablement tort .', 'he s probably wrong .') 
+
+Random Test Pair: None 
+
+Current mem usage: 0.0 
+Encoder and Decoder Created
+Current mem usage: 0.0 
+Number of epochs 100 
+Iter: 1 
+Leaning Rate: 1 
+Time: 0h 5m 47s 
+Train Loss: 2.6604312498973504 
+
+ 				> vous etes tres elegante . 
+ 				= you re very sophisticated . 
+ 				< you re not very . <EOS> 
+
+ 				> vous etes vraiment embetant . 
+ 				= you re really annoying . 
+ 				< you re not very . <EOS> 
+
+ 				> tu n es pas tom . 
+ 				= you aren t tom . 
+ 				< you re not not to you you . <EOS> 
+
+ 				> vous etes vraiment egoistes . 
+ 				= you re really selfish . 
+ 				< you re not very . <EOS> 
+
+ 				> je ne vais pas fermer la porte . 
+ 				= i m not going to close the door . 
+ 				< i m not not to to you you . <EOS> 
+
+ 				> je suis ici . 
+ 				= i am here . 
+ 				< i m not to to to to you . <EOS> 
+
+ 				> je ne suis pas un ivrogne . 
+ 				= i m not a drunk . 
+ 				< i m not not to to you you . <EOS> 
+
+ 				> ils sont sympa . 
+ 				= they re cool . 
+ 				< we re very . <EOS> 
+
+ 				> je suis ravie de vous aider . 
+ 				= i am glad to help you . 
+ 				< i m not to to you you . <EOS> 
+
+ 				> nous sommes tous apres la meme chose . 
+ 				= we re all after the same thing . 
+ 				< we re not the to the . <EOS> 
+Iter: 2 
+Leaning Rate: 1 
+Time: 0h 11m 42s 
+Train Loss: 2.0012400100442935 
+
+ 				> je vous libere . 
+ 				= i m letting you go . 
+ 				< i m glad you you . <EOS> 
+
+ 				> elle a crie qu elle etait en securite . 
+ 				= she shouted that she was safe . 
+ 				< she is the to the the the the the . <EOS> 
+
+ 				> vous etes jeunes . 
+ 				= you re young . 
+ 				< you re very the the . <EOS> 
+
+ 				> je suis un artiste . 
+ 				= i am an artist . 
+ 				< i m a a a a a a a . . <EOS> 
+
+ 				> elle est assez fachee . 
+ 				= she is quite angry . 
+ 				< she is the the the the the the . <EOS> 
+
+ 				> je suis introvertie . 
+ 				= i m introverted . 
+ 				< i m a a a . <EOS> 
+
+ 				> je suis bon en ski . 
+ 				= i m good at skiing . 
+ 				< i m going to to a a a . <EOS> 
+
+ 				> elle est materialiste et superficielle . 
+ 				= she s materialistic and shallow . 
+ 				< she is the the the the a . <EOS> 
+
+ 				> ce n est pas un saint . 
+ 				= he s no saint . 
+ 				< he is not a a a a . <EOS> 
+
+ 				> je suis mal barree . 
+ 				= i am in trouble . 
+ 				< i m a a a a a . <EOS> 
+Iter: 3 
+Leaning Rate: 1 
+Time: 0h 17m 44s 
+Train Loss: 1.774812678609352 
+
+ 				> il est impopulaire pour une raison quelconque . 
+ 				= he is unpopular for some reason . 
+ 				< he is very a good a good person . <EOS> 
+
+ 				> tu es trop dur avec toi . 
+ 				= you re too hard on yourself . 
+ 				< you re the one one you me . <EOS> 
+
+ 				> il ne s en va pas . 
+ 				= he s not going . 
+ 				< he is not not at at t . <EOS> 
+
+ 				> j ai ans . 
+ 				= i m . 
+ 				< i m really your your your . <EOS> 
+
+ 				> il cherche actuellement un nouveau poste . 
+ 				= he is seeking a new position . 
+ 				< he is a a good man man . <EOS> 
+
+ 				> je crains de vous avoir offense . 
+ 				= i m afraid i ve offended you . 
+ 				< i m glad to you you that . <EOS> 
+
+ 				> tu dois faire comme je te dis . 
+ 				= you are to do as i tell you . 
+ 				< you re too than than you . <EOS> 
+
+ 				> ils vont faire les courses . 
+ 				= they are going shopping . 
+ 				< they re all the the the the the the . <EOS> 
+
+ 				> nous sommes en securite . 
+ 				= we re safe . 
+ 				< we re all in the the the the the . <EOS> 
+
+ 				> ca va . 
+ 				= i m ok . 
+ 				< i m going to the the the good . <EOS> 
