@@ -3,7 +3,7 @@ Read 135842 sentence pairs
 Read 10853 sentence pairs 
 Train pairs: 10853Test pairs: 0Counted Words -> Trimmed Vocabulary Sizes (w/ EOS and SOS tags):en, 4487 -> 4490fre, 2923 -> 2926 
 
-Random Train Pair: ('elles ne viennent pas .', 'they re not coming .') 
+Random Train Pair: ('elle l aime toujours .', 'she still loves him .') 
 
 Random Test Pair: None 
 
@@ -14,44 +14,132 @@ Number of epochs 100
 Iter: 1 
 Leaning Rate: 1 
 Time: 0h 5m 45s 
-Train Loss: 2.6376666039961036 
+Train Loss: 2.665352691755414 
 
- 				> je nourris le poisson rouge . 
- 				= i m feeding the goldfish . 
- 				< i m to to to you . <EOS> 
+ 				> nous sommes seules . 
+ 				= we re on our own . 
+ 				< we re very . <EOS> 
 
- 				> il est aime de ses hommes . 
- 				= he is popular with his men . 
- 				< he is a a . <EOS> 
+ 				> vous etes dement . 
+ 				= you re demented . 
+ 				< you re not . <EOS> 
 
- 				> t es irresistible . 
- 				= you re irresistible . 
- 				< you re . <EOS> 
+ 				> tu n es pas citadine si ? 
+ 				= you re not a city girl are you ? 
+ 				< you re not not you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you 
 
- 				> il n est pas ce qu il semble . 
- 				= he is not what he seems . 
- 				< he is a a of . <EOS> 
+ 				> nous allons avoir a travailler ensemble . 
+ 				= we re going to have to work together . 
+ 				< we re not to to the the the . <EOS> 
 
- 				> je suis a la diete . 
- 				= i m fasting . 
- 				< i m to to . <EOS> 
+ 				> nous sommes a court de balles . 
+ 				= we re out of bullets . 
+ 				< we re not the . <EOS> 
 
- 				> ils sont juste pour toi . 
- 				= they re just for you . 
- 				< they re the . <EOS> 
+ 				> je fais un bonhomme de neige . 
+ 				= i m making a snowman . 
+ 				< i m not to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
 
- 				> je crains la meme chose . 
- 				= i m afraid of the same thing . 
- 				< i m to to you . <EOS> 
+ 				> elle porte un chapeau . 
+ 				= she is wearing a hat . 
+ 				< he is a to to to a to a to a to a to a to to a to a to a to to a to a to to a to a to to a to a . <EOS> 
 
- 				> elle a secoue la tete . 
- 				= she shook her head . 
- 				< she is a to . <EOS> 
+ 				> j etudie l economie a l universite . 
+ 				= i m studying economics at university . 
+ 				< i m not to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
 
- 				> j ai honte de moi meme . 
- 				= i am ashamed of myself . 
- 				< i m to to you . <EOS> 
+ 				> il est desormais a son compte . 
+ 				= he is now on his own . 
+ 				< he is a a to to to to to a to to a to to a to a to to a to to a to to a to to a to to a to to to to a to a to a to to a to to a to to a to to a to to a to to a to to a to a to to to a to to a to to to a to a to to a to to a to to to a to to to a to to a to to to a to 
 
- 				> je ne suis pas une sainte . 
- 				= i m no saint . 
- 				< i m not to . <EOS> 
+ 				> vous etes plus grande qu elle . 
+ 				= you are taller than she is . 
+ 				< you re not not to you you you you you you you you you you you you you you . <EOS> 
+Iter: 2 
+Leaning Rate: 1 
+Time: 0h 11m 34s 
+Train Loss: 2.0187730917575823 
+
+ 				> j etudie l art dramatique du kabuki . 
+ 				= i m studying kabuki drama . 
+ 				< i m going to to a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+
+ 				> je suis sans travail . 
+ 				= i am out of work . 
+ 				< i m a a a a a a a a a a a a . <EOS> 
+
+ 				> il est independant . 
+ 				= he s self employed . 
+ 				< he is a a a a a a a a a a a a his . <EOS> 
+
+ 				> ils sont mes amis . 
+ 				= they are my friends . 
+ 				< they re a to the the the . <EOS> 
+
+ 				> tu es epuisee . 
+ 				= you re exhausted . 
+ 				< you re very the . <EOS> 
+
+ 				> je me rejouis que tu en prennes conscience . 
+ 				= i m glad you realize that . 
+ 				< i m sorry to you you . <EOS> 
+
+ 				> ils sont tous dingues . 
+ 				= they re all nuts . 
+ 				< they re all the the the the the the the the . <EOS> 
+
+ 				> il n est pas chez lui . 
+ 				= he s not at home . 
+ 				< he is not a a a a a . . <EOS> 
+
+ 				> je romps ce soir avec ma petite copine . 
+ 				= i m breaking up with my girlfriend tonight . 
+ 				< i m going to to the a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+
+ 				> elle est en train de pleurer . 
+ 				= she is crying . 
+ 				< she is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+Iter: 3 
+Leaning Rate: 1 
+Time: 0h 17m 29s 
+Train Loss: 1.7959194658076858 
+
+ 				> tu es trop maigre . 
+ 				= you re too skinny . 
+ 				< you are a one me . <EOS> 
+
+ 				> ce sont des affaires dont nous devons parler . 
+ 				= they are matters which we need to discuss . 
+ 				< they are the the the the the the . <EOS> 
+
+ 				> je suis heureux que tu l aies apprecie . 
+ 				= i m glad you liked it . 
+ 				< i m glad you as are . <EOS> 
+
+ 				> nous ne faisons que parler . 
+ 				= we re just talking . 
+ 				< we re not a on . <EOS> 
+
+ 				> il est toujours soigneusement vetu . 
+ 				= he is always neatly dressed . 
+ 				< he is a good his his . <EOS> 
+
+ 				> il est en train de lire un livre . 
+ 				= he is reading a book . 
+ 				< he is a his his . <EOS> 
+
+ 				> c est ici qu il joue . 
+ 				= he is playing here . 
+ 				< he s as as as as as s as he he . <EOS> 
+
+ 				> il est sur le point de partir . 
+ 				= he s about to go . 
+ 				< he is the to his his . <EOS> 
+
+ 				> ce n est pas un menteur . 
+ 				= he s not a liar . 
+ 				< he s not a a a . . <EOS> 
+
+ 				> nous sommes pareilles . 
+ 				= we re the same . 
+ 				< we re all . <EOS> 
