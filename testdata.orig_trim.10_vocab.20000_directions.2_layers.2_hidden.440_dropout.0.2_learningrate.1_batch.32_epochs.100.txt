@@ -143,3 +143,145 @@ Train Loss: 1.7959194658076858
  				> nous sommes pareilles . 
  				= we re the same . 
  				< we re all . <EOS> 
+Resuming Training 
+
+Random Train Pair: ('je ne trouve pas les mots .', 'i m at a loss for words .') 
+
+Random Test Pair: None 
+
+Current mem usage: 0.0 
+Encoder and Decoder Created
+Current mem usage: 100.0 
+Number of epochs 100 
+Iter: 4 
+Leaning Rate: 1 
+Time: 0h 5m 56s 
+Train Loss: 1.6231495968750826 
+
+ 				> vous etes medecin . 
+ 				= you are a doctor . 
+ 				< you re very good . <EOS> 
+
+ 				> nous sommes habituees a porter des chaussures . 
+ 				= we are accustomed to wearing shoes . 
+ 				< we re all in the the the time . <EOS> 
+
+ 				> nous sommes condamnes . 
+ 				= we are doomed . 
+ 				< we re all in the the same . <EOS> 
+
+ 				> vous etes marrantes . 
+ 				= you re funny . 
+ 				< you re the one . <EOS> 
+
+ 				> je suis a la maison tout le temps . 
+ 				= i m home all the time . 
+ 				< i m the the the the the the . <EOS> 
+
+ 				> il est dingue de jazz . 
+ 				= he is crazy about jazz . 
+ 				< he is afraid of his his . <EOS> 
+
+ 				> tu es desormais un adulte . 
+ 				= you are now an adult . 
+ 				< you re a good friend . <EOS> 
+
+ 				> je vais au lit . 
+ 				= i m going to bed . 
+ 				< i m going to going to this this this . <EOS> 
+
+ 				> nous nous soucions de ta securite . 
+ 				= we re concerned for your safety . 
+ 				< we re going to going to we you it . <EOS> 
+
+ 				> il n y excelle pas . 
+ 				= he s not very good at it . 
+ 				< he is not not to be . <EOS> 
+Iter: 5 
+Leaning Rate: 1 
+Time: 0h 12m 2s 
+Train Loss: 1.4777768010352326 
+
+ 				> il n est jamais paresseux . 
+ 				= he is never lazy . 
+ 				< he is not in in . <EOS> 
+
+ 				> nous ne sommes pas des barbares . 
+ 				= we re not barbarians . 
+ 				< we re not not yet . <EOS> 
+
+ 				> je descends l escalier . 
+ 				= i am going down the stairs . 
+ 				< i m going to the the job . <EOS> 
+
+ 				> ca me fatigue . 
+ 				= i m getting tired of this . 
+ 				< i m going to be this this . <EOS> 
+
+ 				> tu es une femme tres attirante . 
+ 				= you re a very attractive woman . 
+ 				< you re very good good . <EOS> 
+
+ 				> ils militent contre les violences aux animaux . 
+ 				= they re against animal abuse . 
+ 				< they re always the same . <EOS> 
+
+ 				> ils sont forts . 
+ 				= they re strong . 
+ 				< they re all the same . <EOS> 
+
+ 				> elle va avoir un bebe . 
+ 				= she s going to have a baby . 
+ 				< she is going to a a student . <EOS> 
+
+ 				> je suis habitue . 
+ 				= i m used to it . 
+ 				< i m tired of your . <EOS> 
+
+ 				> vous etes fort elegante . 
+ 				= you re very sophisticated . 
+ 				< you re very very . <EOS> 
+Iter: 6 
+Leaning Rate: 1 
+Time: 0h 18m 10s 
+Train Loss: 1.3646841731863864 
+
+ 				> tu es vraiment geniale . 
+ 				= you re really awesome . 
+ 				< you re so very busy . <EOS> 
+
+ 				> j ai froid . 
+ 				= i am cold . 
+ 				< i m tired . <EOS> 
+
+ 				> tu es une traitresse . 
+ 				= you re a traitor . 
+ 				< you re a good liar . <EOS> 
+
+ 				> nous sommes tellement contentes de t avoir ici ! 
+ 				= we re so glad to have you here . 
+ 				< we re glad to have you here . <EOS> 
+
+ 				> il est en faillite . 
+ 				= he is bankrupt . 
+ 				< he s in the teacher . <EOS> 
+
+ 				> je suis fier de vous tous . 
+ 				= i m proud of you all . 
+ 				< i m sure you all here . <EOS> 
+
+ 				> nous nous en sortons tres bien . 
+ 				= we re managing all right . 
+ 				< we re all very good . <EOS> 
+
+ 				> je suis bourree . 
+ 				= i m sloshed . 
+ 				< i m the teacher . <EOS> 
+
+ 				> il a peur de son ombre . 
+ 				= he is afraid of his own shadow . 
+ 				< he s afraid of his his his . <EOS> 
+
+ 				> elles sont toutes en securite . 
+ 				= they re all safe . 
+ 				< they re all all . <EOS> 
