@@ -3,7 +3,7 @@ Read 135842 sentence pairs
 Read 10853 sentence pairs 
 Train pairs: 10853Test pairs: 0Counted Words -> Trimmed Vocabulary Sizes (w/ EOS and SOS tags):en, 4487 -> 4490fre, 2923 -> 2926 
 
-Random Train Pair: ('elle l aime toujours .', 'she still loves him .') 
+Random Train Pair: ('tu es creatif .', 'you re creative .') 
 
 Random Test Pair: None 
 
@@ -13,275 +13,133 @@ Current mem usage: 0.0
 Number of epochs 100 
 Iter: 1 
 Leaning Rate: 1 
-Time: 0h 5m 45s 
-Train Loss: 2.665352691755414 
+Time: 0h 5m 47s 
+Train Loss: 2.6372821864125306 
 
- 				> nous sommes seules . 
- 				= we re on our own . 
- 				< we re very . <EOS> 
+ 				> il est endette jusqu au cou . 
+ 				= he s deep in debt . 
+ 				< he is a a . <EOS> 
 
- 				> vous etes dement . 
- 				= you re demented . 
- 				< you re not . <EOS> 
+ 				> vous etes fascinant . 
+ 				= you re fascinating . 
+ 				< you re . <EOS> 
 
- 				> tu n es pas citadine si ? 
- 				= you re not a city girl are you ? 
- 				< you re not not you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you 
+ 				> tu es une menteuse . 
+ 				= you re a liar . 
+ 				< you re a . <EOS> 
 
- 				> nous allons avoir a travailler ensemble . 
- 				= we re going to have to work together . 
- 				< we re not to to the the the . <EOS> 
+ 				> je suis tres content de ma nouvelle voiture . 
+ 				= i am really pleased with my new car . 
+ 				< i m not to to you . <EOS> 
 
- 				> nous sommes a court de balles . 
- 				= we re out of bullets . 
- 				< we re not the . <EOS> 
+ 				> on s eclate . 
+ 				= we re having a blast . 
+ 				< they re a . <EOS> 
 
- 				> je fais un bonhomme de neige . 
- 				= i m making a snowman . 
- 				< i m not to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+ 				> il est un bon perdant . 
+ 				= he is a good loser . 
+ 				< he is a a . <EOS> 
 
- 				> elle porte un chapeau . 
- 				= she is wearing a hat . 
- 				< he is a to to to a to a to a to a to a to to a to a to a to to a to a to to a to a to to a to a . <EOS> 
+ 				> ils sont en danger . 
+ 				= they re in danger . 
+ 				< they re a . <EOS> 
 
- 				> j etudie l economie a l universite . 
- 				= i m studying economics at university . 
- 				< i m not to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+ 				> elle n est pas d humeur . 
+ 				= she s not in the mood . 
+ 				< she is a a to . <EOS> 
 
- 				> il est desormais a son compte . 
- 				= he is now on his own . 
- 				< he is a a to to to to to a to to a to to a to a to to a to to a to to a to to a to to a to to to to a to a to a to to a to to a to to a to to a to to a to to a to to a to a to to to a to to a to to to a to a to to a to to a to to to a to to to a to to a to to to a to 
+ 				> je suis difficile . 
+ 				= i m fussy . 
+ 				< i m to . <EOS> 
 
- 				> vous etes plus grande qu elle . 
- 				= you are taller than she is . 
- 				< you re not not to you you you you you you you you you you you you you you . <EOS> 
+ 				> il est lyceen . 
+ 				= he is a student at a high school . 
+ 				< he is a a . <EOS> 
 Iter: 2 
 Leaning Rate: 1 
-Time: 0h 11m 34s 
-Train Loss: 2.0187730917575823 
+Time: 0h 11m 41s 
+Train Loss: 1.996413695183163 
 
- 				> j etudie l art dramatique du kabuki . 
- 				= i m studying kabuki drama . 
- 				< i m going to to a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ 				> vous etes un menteur . 
+ 				= you re a liar . 
+ 				< you re a a a a a a . <EOS> 
 
- 				> je suis sans travail . 
- 				= i am out of work . 
- 				< i m a a a a a a a a a a a a . <EOS> 
+ 				> tu rougis ! 
+ 				= you are blushing . 
+ 				< you re very the the . <EOS> 
 
- 				> il est independant . 
- 				= he s self employed . 
- 				< he is a a a a a a a a a a a a his . <EOS> 
+ 				> vous etes bavard . 
+ 				= you re talkative . 
+ 				< you re very a the . <EOS> 
 
- 				> ils sont mes amis . 
- 				= they are my friends . 
- 				< they re a to the the the . <EOS> 
+ 				> vous etes tres habiles . 
+ 				= you re very clever . 
+ 				< you re very very the . <EOS> 
 
- 				> tu es epuisee . 
- 				= you re exhausted . 
- 				< you re very the . <EOS> 
+ 				> je vais bien . 
+ 				= i m well . 
+ 				< i m going to to a a a . <EOS> 
 
- 				> je me rejouis que tu en prennes conscience . 
- 				= i m glad you realize that . 
- 				< i m sorry to you you . <EOS> 
+ 				> je suis fort . 
+ 				= i m strong . 
+ 				< i m a a a . <EOS> 
 
- 				> ils sont tous dingues . 
- 				= they re all nuts . 
- 				< they re all the the the the the the the the . <EOS> 
+ 				> je suis ami avec de nombreux flics . 
+ 				= i m friends with a lot of cops . 
+ 				< i m a a a a a a a . <EOS> 
 
- 				> il n est pas chez lui . 
- 				= he s not at home . 
- 				< he is not a a a a a . . <EOS> 
+ 				> je suis musulmane . 
+ 				= i am a muslim . 
+ 				< i m a a a . <EOS> 
 
- 				> je romps ce soir avec ma petite copine . 
- 				= i m breaking up with my girlfriend tonight . 
- 				< i m going to to the a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ 				> je suis desolee je ne vous reconnais pas . 
+ 				= i m sorry i don t recognize you . 
+ 				< i m not glad you . <EOS> 
 
- 				> elle est en train de pleurer . 
- 				= she is crying . 
- 				< she is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ 				> c est votre ami . 
+ 				= he s your friend . 
+ 				< he is a a a a a . <EOS> 
 Iter: 3 
 Leaning Rate: 1 
-Time: 0h 17m 29s 
-Train Loss: 1.7959194658076858 
+Time: 0h 17m 53s 
+Train Loss: 1.7881116231360696 
 
- 				> tu es trop maigre . 
- 				= you re too skinny . 
- 				< you are a one me . <EOS> 
+ 				> vous desobeissez aux ordres . 
+ 				= you re disobeying orders . 
+ 				< you are the the the the the the the the the the the the . <EOS> 
 
- 				> ce sont des affaires dont nous devons parler . 
- 				= they are matters which we need to discuss . 
- 				< they are the the the the the the . <EOS> 
+ 				> il est jeune . 
+ 				= he is young . 
+ 				< he is a good man . <EOS> 
 
- 				> je suis heureux que tu l aies apprecie . 
- 				= i m glad you liked it . 
- 				< i m glad you as are . <EOS> 
+ 				> nous ne sommes pas partenaires . 
+ 				= we re not partners . 
+ 				< we re not not . <EOS> 
 
- 				> nous ne faisons que parler . 
- 				= we re just talking . 
- 				< we re not a on . <EOS> 
+ 				> je suis a votre disposition . 
+ 				= i m at your disposal . 
+ 				< i m sorry to i your your . <EOS> 
 
- 				> il est toujours soigneusement vetu . 
- 				= he is always neatly dressed . 
- 				< he is a good his his . <EOS> 
+ 				> je vais m habiller . 
+ 				= i am going to get dressed . 
+ 				< i m going to going to your my my . <EOS> 
 
- 				> il est en train de lire un livre . 
- 				= he is reading a book . 
- 				< he is a his his . <EOS> 
+ 				> je suis impitoyable . 
+ 				= i m ruthless . 
+ 				< i m very your to your . <EOS> 
 
- 				> c est ici qu il joue . 
- 				= he is playing here . 
- 				< he s as as as as as s as he he . <EOS> 
+ 				> je suis desolee je ne te reconnais pas . 
+ 				= i m sorry i don t recognize you . 
+ 				< i m sorry i sorry you . <EOS> 
 
- 				> il est sur le point de partir . 
- 				= he s about to go . 
- 				< he is the to his his . <EOS> 
+ 				> je vais rentrer chez moi demain . 
+ 				= i m going back home tomorrow . 
+ 				< i m going to to my my my . <EOS> 
 
- 				> ce n est pas un menteur . 
- 				= he s not a liar . 
- 				< he s not a a a . . <EOS> 
+ 				> je m ennuie a en mourir . 
+ 				= i am bored to death . 
+ 				< i m going to to going the the the the the the . <EOS> 
 
- 				> nous sommes pareilles . 
- 				= we re the same . 
- 				< we re all . <EOS> 
-Resuming Training 
-
-Random Train Pair: ('je ne trouve pas les mots .', 'i m at a loss for words .') 
-
-Random Test Pair: None 
-
-Current mem usage: 0.0 
-Encoder and Decoder Created
-Current mem usage: 100.0 
-Number of epochs 100 
-Iter: 4 
-Leaning Rate: 1 
-Time: 0h 5m 56s 
-Train Loss: 1.6231495968750826 
-
- 				> vous etes medecin . 
- 				= you are a doctor . 
- 				< you re very good . <EOS> 
-
- 				> nous sommes habituees a porter des chaussures . 
- 				= we are accustomed to wearing shoes . 
- 				< we re all in the the the time . <EOS> 
-
- 				> nous sommes condamnes . 
- 				= we are doomed . 
- 				< we re all in the the same . <EOS> 
-
- 				> vous etes marrantes . 
- 				= you re funny . 
- 				< you re the one . <EOS> 
-
- 				> je suis a la maison tout le temps . 
- 				= i m home all the time . 
- 				< i m the the the the the the . <EOS> 
-
- 				> il est dingue de jazz . 
- 				= he is crazy about jazz . 
- 				< he is afraid of his his . <EOS> 
-
- 				> tu es desormais un adulte . 
- 				= you are now an adult . 
- 				< you re a good friend . <EOS> 
-
- 				> je vais au lit . 
- 				= i m going to bed . 
- 				< i m going to going to this this this . <EOS> 
-
- 				> nous nous soucions de ta securite . 
- 				= we re concerned for your safety . 
- 				< we re going to going to we you it . <EOS> 
-
- 				> il n y excelle pas . 
- 				= he s not very good at it . 
- 				< he is not not to be . <EOS> 
-Iter: 5 
-Leaning Rate: 1 
-Time: 0h 12m 2s 
-Train Loss: 1.4777768010352326 
-
- 				> il n est jamais paresseux . 
- 				= he is never lazy . 
- 				< he is not in in . <EOS> 
-
- 				> nous ne sommes pas des barbares . 
- 				= we re not barbarians . 
- 				< we re not not yet . <EOS> 
-
- 				> je descends l escalier . 
- 				= i am going down the stairs . 
- 				< i m going to the the job . <EOS> 
-
- 				> ca me fatigue . 
- 				= i m getting tired of this . 
- 				< i m going to be this this . <EOS> 
-
- 				> tu es une femme tres attirante . 
- 				= you re a very attractive woman . 
- 				< you re very good good . <EOS> 
-
- 				> ils militent contre les violences aux animaux . 
- 				= they re against animal abuse . 
- 				< they re always the same . <EOS> 
-
- 				> ils sont forts . 
- 				= they re strong . 
- 				< they re all the same . <EOS> 
-
- 				> elle va avoir un bebe . 
- 				= she s going to have a baby . 
- 				< she is going to a a student . <EOS> 
-
- 				> je suis habitue . 
- 				= i m used to it . 
- 				< i m tired of your . <EOS> 
-
- 				> vous etes fort elegante . 
- 				= you re very sophisticated . 
- 				< you re very very . <EOS> 
-Iter: 6 
-Leaning Rate: 1 
-Time: 0h 18m 10s 
-Train Loss: 1.3646841731863864 
-
- 				> tu es vraiment geniale . 
- 				= you re really awesome . 
- 				< you re so very busy . <EOS> 
-
- 				> j ai froid . 
- 				= i am cold . 
- 				< i m tired . <EOS> 
-
- 				> tu es une traitresse . 
- 				= you re a traitor . 
- 				< you re a good liar . <EOS> 
-
- 				> nous sommes tellement contentes de t avoir ici ! 
- 				= we re so glad to have you here . 
- 				< we re glad to have you here . <EOS> 
-
- 				> il est en faillite . 
- 				= he is bankrupt . 
- 				< he s in the teacher . <EOS> 
-
- 				> je suis fier de vous tous . 
- 				= i m proud of you all . 
- 				< i m sure you all here . <EOS> 
-
- 				> nous nous en sortons tres bien . 
- 				= we re managing all right . 
- 				< we re all very good . <EOS> 
-
- 				> je suis bourree . 
- 				= i m sloshed . 
- 				< i m the teacher . <EOS> 
-
- 				> il a peur de son ombre . 
- 				= he is afraid of his own shadow . 
- 				< he s afraid of his his his . <EOS> 
-
- 				> elles sont toutes en securite . 
- 				= they re all safe . 
- 				< they re all all . <EOS> 
+ 				> il est mon epoux . 
+ 				= he s my husband . 
+ 				< he is a his his his . <EOS> 
