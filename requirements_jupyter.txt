@@ -7,7 +7,7 @@ matplotlib == 3.0.3
 numpy == 1.16.2
 
 # nmt_tutorial/nmt_tutorial.ipynb: 650,813
-protobuf == 3.7.1
+protobuf == 3.15.0
 
 # nmt_tutorial/nmt_tutorial.ipynb: 4
 psutil == 5.7.0
